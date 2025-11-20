@@ -54,21 +54,21 @@ ROC-AUC score
 Selected the best-performing model for final predictions.
 
 
-**Key Insights**
+**Key Insights :**
 
 Lifestyle patterns (smoking, alcohol, low activity) strongly correlate with cardiovascular risk
 Higher glucose, cholesterol, and blood pressure significantly increase risk
 Age and BMI show clear upward trends in high-risk groups
 
 
-**Tech Stack**
+**Tech Stack :**
 Python
 Pandas, NumPy
 Matplotlib, Seaborn
 Scikit-learn
 
 
-**Usage**
+**Usage :**
 Clone the repository
 Install required dependencies
 Open the notebook and run all cells to reproduce results
